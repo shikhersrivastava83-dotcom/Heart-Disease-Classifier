@@ -60,6 +60,10 @@ Two supervised learning models were trained and evaluated:
 ---
 
 ## 📦 How to Run
+Clone this repository:
+```bash
+git clone https://github.com/shikhersrivastava83-dotcom/Heart-disease-classifier.git
+
 1. Clone this repository:
 2. ```bash
    git clone https://github.com/shikhersrivastava83-dotcom/Heart-Disease-Classifier.git
