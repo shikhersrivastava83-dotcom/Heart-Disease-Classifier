@@ -60,13 +60,14 @@ Open your terminal (or command prompt) and run the following commands one by one
 git clone https://github.com/sikhersrivastava83-dotcom/heart-disease-classifier.git
 
 # Move into the project folder
-cd heart-disease-classifier
+cd D:\Journey\Shikher's vault\Skills-and-projects\Heart_Diease_Classifier
 
 # Install dependencies
 pip install pandas NumPy scikit-learn
 
 # Run the classifier
-python CARDIO_DISEASE.py
+python CARDIO_DISEASES.py
+
 
 
 
