@@ -63,9 +63,3 @@ Two supervised learning models were trained and evaluated:
 Clone this repository:
 ```bash
 git clone https://github.com/shikhersrivastava83-dotcom/Heart-disease-classifier.git
-
-1. Clone this repository:
-2. ```bash
-   git clone https://github.com/shikhersrivastava83-dotcom/Heart-Disease-Classifier.git
-   ```bash
-   git clone https://github.com/<your-username>/heart-disease-classifier.git
